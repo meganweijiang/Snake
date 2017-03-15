@@ -1,2 +1,2 @@
 # Snake
-Twist on classic snake game in Processing
+Twist on classic snake game in Processing/Java.
